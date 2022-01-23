@@ -1,3 +1,11 @@
+# PRACTICANDO APEX
+### Este es un repositorio donde se subiran los proyectos creados en Salesforce 
+Se creo una configuracion con Clase Apex y un Trigger Donde el usuario al crear una Oportunidad si no coloca un Inporte y Una Cantidad nolo dejara guardar y arrojara un error diciendo que tiene que campo falta.
+El codigo esta en la carpeta: 
+#### Ubicacion de la Clase
+force-app/main/default/classes/verificarCuenta.cls
+#### Ubicacion del Trigger
+force-app/main/default/triggers/verificarCuentaTrigger.trigger
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
