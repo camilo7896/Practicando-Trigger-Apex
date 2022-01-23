@@ -5,7 +5,7 @@ El codigo esta en la carpeta:
 #### Ubicacion de la Clase
  <a href="force-app/main/default/classes/verificarCuenta.cls">force-app/main/default/classes/verificarCuenta.cls</a>
 #### Ubicacion del Trigger
-> force-app/main/default/triggers/verificarCuentaTrigger.trigger
+<a href="force-app/main/default/triggers/verificarCuentaTrigger.trigger"> force-app/main/default/triggers/verificarCuentaTrigger.trigger</a>
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
