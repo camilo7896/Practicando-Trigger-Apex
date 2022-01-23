@@ -3,7 +3,7 @@
 Se creo una configuracion con Clase Apex y un Trigger Donde el usuario al crear una Oportunidad si no coloca un <strong>Importe</strong> y Una <strong>Cantidad</strong> no lo dejara guardar y arrojara un <strong>error</strong> diciendo que tiene que campo falta.
 El codigo esta en la carpeta: 
 #### Ubicacion de la Clase
-> force-app/main/default/classes/verificarCuenta.cls
+ <a href="force-app/main/default/classes/verificarCuenta.cls">force-app/main/default/classes/verificarCuenta.cls</a>
 #### Ubicacion del Trigger
 > force-app/main/default/triggers/verificarCuentaTrigger.trigger
 # Salesforce DX Project: Next Steps
